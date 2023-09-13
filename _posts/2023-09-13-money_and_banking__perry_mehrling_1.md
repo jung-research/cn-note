@@ -6,7 +6,7 @@ tags:
 
 ---
 
-## 0. Big Picture / Blue Print
+## 0. Big Picture
 
 基于作者(perry mehrling)的 monetary economics and financial econimics 思想史基础上, I(作者) locate myself in the distinctly
 American tradition of monetary thought
@@ -67,7 +67,15 @@ Four prices of money
 
         -$100 存款负债; -$100 储备金, 
 
-        而 case reserves 是来自于 central bank, central bank 与 bank 之间 interest rate 未必一直保持 1:1(金融危机期间)
+        而 cash reserves 是来自于 central bank, central bank 与 bank 之间 interest rate 未必一直保持 1:1
+
+        (比如, 金融危机期间, 存银行的利率与银行存放在央行的 cash reserves 的汇率不同)
+
+        我们国家是给准备金利息的, 但是其他国家如美国是不给的, 储备金是为了提高银行信用度和调节经济的. 
+        我国的准备金由于一般不会同业拆借, 为了弥补银行的损失, 央行是给利息的. 
+        至于美国为什么不给, 是由于美国的存款准备金收上去后, 是放在其联邦基金里面可以进行同业拆借的, 可以从存款准备金里面获益.
+
+        cash reserves 的同行拆借的利率不低于 deposit rate, 还是不亏.
 
 
     当没有 par clearing 建立的时候(央行??), 跨城、跨银行支付会产生额外费用.
@@ -92,6 +100,8 @@ Four functions of banking
 credit 带来的 money 不变的情况下, interest 差(  a-b 1%, b-c 2%, c-d 3% )
 
 (储蓄 - 储备金 ~ 贷款 + credit 风险; 贷款利息 > 储蓄利息)
+
+
 
 ---
 
