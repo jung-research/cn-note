@@ -33,6 +33,52 @@ Q: What is a bank ?
 
   bank assets & liabilities
 
+Q: bank, central bank 他们的 balance sheet 都有哪些项?
+
+Q: central bank 的 balance sheet 的变化背后解释是什么? 有时增持长期国债, 有时增持短期国债, 有时持企业债券, ...
+
+Q: central bank 可以刷钱, 那是凭空产生更多 currency ? central bank 也作为 bank 可通过 balance sheet 解释他的资产与负债
+
+Q: 怎么去监管?
+
+Q: 学习解读经济报道, 学会看懂 central bank 的 balance sheet, 作为银行、银行的银行、政府机构会蕴含当时的政府决策
+
+
+## 1. The Four Prices of Money
+
+Four prices of money
+
+1.  Par             - diferent types of money(currency, deposists); 票面价值
+
+    this is the price of one money in terms of another money right now (这是目前一种货币相对于另一种货币的价格)
+
+        即时汇率, 即期汇率
+
+    如果在银行账户中有 $100(deposit accounts), 可以去银行柜台取出 $100(cash reserves); that's par (平价? 票面价值?)
+
+                    Bank
+        Assets            Liabilities
+        ----------------+------------------
+        Loans           | Deposit Accounts
+        Securities      | Other borrowing
+        Cash Reserves   | Net Worth
+
+        不同"形态"的 money, deposit or currency
+
+        -$100 存款负债; -$100 储备金, 
+
+        而 case reserves 是来自于 central bank, central bank 与 bank 之间 interest rate 未必一直保持 1:1(金融危机期间)
+
+
+    当没有 par clearing 建立的时候(央行??), 跨城、跨银行支付会产生额外费用.
+
+    Par 维持 1:1 的比例, 虽然知觉上没问题, 实操固定是有难度的
+
+2.  Interest        - future money(fed funds, Eurodollars, repo)
+3.  Exchange rate   - foreign money
+4.  Price level     - commodities
+
+
 Four functions of banking
 
 1.  Clearing
@@ -40,14 +86,12 @@ Four functions of banking
 3.  advance clearing
 4.  intermediation
 
-Four prices of money
 
-1.  Par             - diferent types of money(currency, deposists); 票面价值
-2.  Interest        - future money(fed funds, Eurodollars, repo)
-3.  Exchange rate   - foreign money
-4.  Price level     - commodities
+---
 
+credit 带来的 money 不变的情况下, interest 差(  a-b 1%, b-c 2%, c-d 3% )
 
+(储蓄 - 储备金 ~ 贷款 + credit 风险; 贷款利息 > 储蓄利息)
 
 ---
 
