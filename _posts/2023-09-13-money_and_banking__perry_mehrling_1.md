@@ -46,9 +46,68 @@ Q: 学习解读经济报道, 学会看懂 central bank 的 balance sheet, 作为
 
 ## 1. The Four Prices of Money
 
+Four functions of banking
+
+1. Clearing
+2. market making
+3. advance clearing
+4. intermediation
+
+    关键词, liquidity
+        payments system with liquidity,
+        liquid markets with liquidity,
+        ...
+
+    understanding the payments system is the best starting place for understading the phenomenon of liquidity. 
+    understanding 支付系统(payments system)
+
+    Once we understand the phenomenon of liquid assets we are ready to consider the phenomenon of liquid markets. 
+    understanding liquid markets
+
+    Thus clearing and market making are the two central function
+
+    Q: clearing 包含 payments??
+
+        支付结算及清算目前国内没有一个统一的定义, 从央行的有关规定中可以看出, 
+            1. 认为银行与商户, 消费者之间为支付结算关系, 
+            2. 因跨行交易而产生的银行之间的债权债务而实时或定期结清的过程称为清算
+        目前支付结算环节放开市场竞争, 鼓励创新; 清算环节为基础设施, 不希望市场进入
+
+        清算系统均由央行主管, 
+            1. 主要包括大额实时支付系统(HVPS)、
+            2. 小额批量支付系统(BEPS)、
+            3. 网上支付跨行清算系统、
+            4. 同城票据清算系统、
+            5. 境内外币支付系统、
+            6. 城市商业银行资金清算系统和农信银支付清算系统
+            ...
+
+        大额实时支付系统 HVPS-High Value Payment System, 国际上对这类系统的通用叫法是 RTGS-Real Time Gross Settlement
+
+        RTGS 系统在收到资金转账指令后, 立即将付款资金从付款行在中央银行的备付金账户转移到收款行在中央银行的备付金账户, 
+        一般来说参加大额实时支付对参与方的流动性要求较高, 因为备付金账户里一定要有足够的资金保证支付成功
+
+        美国(CHIPS,NET; Fedwire,RTGS)
+        欧盟(TARGET,RTGS)
+        中国(HVPS,RTGS; BEPS,NET)
+
+        虽然 target2 系统规定, 每笔交易必须当天完成, 不能形成隔夜债权债务, 但在央行间后台账务处理中却没有类似规定
+
+        Target2 容易导致失衡的机理, 可通过一个例子加以说明, 
+
+            一家希腊企业签一张支票给德国公司用于进口货物, 德国公司委托德国商业银行向希腊银行收款
+            希腊商业银行将其持有的欧元体系准备金转移至德国商业银行, 最终完成结算
+
+            但如果希腊商业银行准备金不足且无法从市场融资, 就只能通过希腊央行向欧央行申请"再融资", 所得资金将进入希腊央行在
+            target2 系统中开立的专用母账户中. 此时欧央行 target2 系统中就拥有了对希腊央行的债权. 在 target2 系统的制度设计中, 
+            欧央行只是总协调方, 不承担净头寸风险, 欧央行会以希腊央行的担保品为抵押, 请德央行提供等额资金
+
+            因此，德央行在 target2 系统中就拥有了一笔对欧央行的债权, 实现了对希腊央行的间接融资
+
+
 Four prices of money
 
-1.  Par             - diferent types of money(currency, deposists); 票面价值
+1.  Par             - diferent types of money(currency, deposists); 
 
     this is the price of one money in terms of another money right now (这是目前一种货币相对于另一种货币的价格)
 
@@ -63,13 +122,21 @@ Four prices of money
         Securities      | Other borrowing
         Cash Reserves   | Net Worth
 
-        不同"形态"的 money, deposit or currency
+        不同"形态"的 money, deposit or currency(cash reserves)
 
         -$100 存款负债; -$100 储备金, 
 
         而 cash reserves 是来自于 central bank, central bank 与 bank 之间 interest rate 未必一直保持 1:1
 
-        (比如, 金融危机期间, 存银行的利率与银行存放在央行的 cash reserves 的汇率不同)
+        当没有 par clearing 建立的时候(央行??), 跨城、跨银行支付会产生额外费用, 并不是 real time 划账, 发生时差
+
+    par: 在当下以一份货币(存款)为单位, 计算另一份货币(存款)的价格;
+
+        假设自己在某家银行有100块活期存款, 普通情况下这 100 块存款可以随时换到 100 块现金. 但这 100 块存款实际上只是对银行的 100 块债权, 
+        极端情况下, 譬如银行破产, 那么可能无法全额取现或者跨行转账(其他银行不愿意同时接受 100 块对该银行的债权和 100 块对你的债务, 因为已经资不抵债)
+        破产清算(以及在那之前) 这 100 块存款可能只值 55 块现金, 这个 55 块现金就是 par
+
+2.  Interest        - future money(fed funds, Eurodollars, repo)
 
         我们国家是给准备金利息的, 但是其他国家如美国是不给的, 储备金是为了提高银行信用度和调节经济的. 
         我国的准备金由于一般不会同业拆借, 为了弥补银行的损失, 央行是给利息的. 
@@ -78,22 +145,13 @@ Four prices of money
         cash reserves 的同行拆借的利率不低于 deposit rate, 还是不亏.
 
 
-    当没有 par clearing 建立的时候(央行??), 跨城、跨银行支付会产生额外费用.
+    但凡涉及 future, 离不开 credit + interest rate.. 承担风险收益浮动收益
 
-    Par 维持 1:1 的比例, 虽然知觉上没问题, 实操固定是有难度的
-
-2.  Interest        - future money(fed funds, Eurodollars, repo)
 3.  Exchange rate   - foreign money
+
 4.  Price level     - commodities
 
-
-Four functions of banking
-
-1.  Clearing
-2.  market making
-3.  advance clearing
-4.  intermediation
-
+all banking is essentially a swap of IOUs (借据的交换)
 
 ---
 
