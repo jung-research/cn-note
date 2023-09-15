@@ -64,30 +64,30 @@ balance sheet
 
     - net worth(净值) 与 solvency(偿付能力)
 
-        solvency just means, is the value of the assets greater than the value of the liability 
-        so that the net worth is greater than zero
+          solvency just means, is the value of the assets greater than the value of the liability 
+          so that the net worth is greater than zero
 
     - cash (cash reserves, 储备金) 与 liquidity(流动性)
 
-        if a depositor transfers their deposit to somebody else,
-        tries to make a payment to somebody else,
+          if a depositor transfers their deposit to somebody else,
+          tries to make a payment to somebody else,
 
-        does the bank have liquidity?
-        does it have case reserves in order to make that payment
+          does the bank have liquidity?
+          does it have case reserves in order to make that payment
 
-        These are demand deposits(活期存款). They can be withdrawn at any moment, Does it have its reserves? 
-        And if it doesn't, 
-            1. can it acquire them? 
-            2. can it borrow them, in the money markets? 
-            3. can it go to the Fed ultimately, to the window? 
-            4. can it sell a security or repo a security? 
-        These are words you haven't heard, but you're going to know what these are pretty soon. 
+          These are demand deposits(活期存款). They can be withdrawn at any moment, Does it have its reserves? 
+          And if it doesn't, 
+              1. can it acquire them? 
+              2. can it borrow them, in the money markets? 
+              3. can it go to the Fed ultimately, to the window? 
+              4. can it sell a security or repo a security? 
+          These are words you haven't heard, but you're going to know what these are pretty soon. 
 
-            5. or does it have to liquidate(清算, 变卖) these loans? 
+              5. or does it have to liquidate(清算, 变卖) these loans? 
 
-                sell them at a fire sale price, and if it does, what happens to solvency? 
-                If it sells them at a fire sale price, you know the assets are sold below their value. 
-                so, there is a link between the liquidity and the solvency. 
+                  sell them at a fire sale price, and if it does, what happens to solvency? 
+                  If it sells them at a fire sale price, you know the assets are sold below their value. 
+                  so, there is a link between the liquidity and the solvency. 
 
     most economists approach banking by thinking first about solvency. We're going to approach banks by thinking first about 
     liquidity and see where that leads us, and that's how bankers think. 
