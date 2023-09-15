@@ -60,11 +60,11 @@ balance sheet
     securities  | other borrowing
     cash        | net worth
 
-* issue of solvency vs. liquidity
+issue of solvency vs. liquidity
 
     - net worth(净值) 与 solvency(偿付能力)
 
-          solvency just means, is the value of the assets greater than the value of the liability 
+          solvency just means, is the value of the assets greater than the value of the liability
           so that the net worth is greater than zero
 
     - cash (cash reserves, 储备金) 与 liquidity(流动性)
@@ -75,36 +75,71 @@ balance sheet
           does the bank have liquidity?
           does it have case reserves in order to make that payment
 
-          These are demand deposits(活期存款). They can be withdrawn at any moment, Does it have its reserves? 
-          And if it doesn't, 
-              1. can it acquire them? 
-              2. can it borrow them, in the money markets? 
-              3. can it go to the Fed ultimately, to the window? 
-              4. can it sell a security or repo a security? 
-          These are words you haven't heard, but you're going to know what these are pretty soon. 
+          These are demand deposits(活期存款). They can be withdrawn at any moment, Does it have its reserves?
+          And if it doesn't,
+              1. can it acquire them?
+              2. can it borrow them, in the money markets?
+              3. can it go to the Fed ultimately, to the window?
+              4. can it sell a security or repo a security?
+          These are words you haven't heard, but you're going to know what these are pretty soon.
 
-              5. or does it have to liquidate(清算, 变卖) these loans? 
+              5. or does it have to liquidate(清算, 变卖) these loans?
 
-                  sell them at a fire sale price, and if it does, what happens to solvency? 
-                  If it sells them at a fire sale price, you know the assets are sold below their value. 
-                  so, there is a link between the liquidity and the solvency. 
+                  sell them at a fire sale price, and if it does, what happens to solvency?
+                  if it sells them at a fire sale price, you know the assets are sold below their value.
+                  so, there is a link between the liquidity and the solvency.
 
-    most economists approach banking by thinking first about solvency. We're going to approach banks by thinking first about 
-    liquidity and see where that leads us, and that's how bankers think. 
+    most economists approach banking by thinking first about solvency. We're going to approach banks by thinking first about
+    liquidity and see where that leads us, and that's how bankers think.
 
-    They face this liquidity constraint every day. They have to clear their accounts. The first two weeks of this course is about 
+    They face this liquidity constraint every day. They have to clear their accounts. The first two weeks of this course is about
     the payment system, oddly enough, but you'll see why. It will all connect up. This is a balance sheet of a traditional bank.
 
-* issue of monetary control
+### shadow bank
 
+    影子银行难道都是短贷长投？
 
-Q: bank, central bank 他们的 balance sheet 都有哪些项?
+    罪域里的呜喵王
+        这个教授给我的理解是: 影子银行是绕过监管的一种短期集资靠抬杠杆来虚高资产, 不断借钱融资来维持现金流, 最后靠卖资产来抄底,
+        很坏很不负责任但确实能赚更多……[藏狐]
+
+    货币法则研习社
+        金融中介一般都是借短贷长，比如说银行、货币基金等等。
+
+    夏目炽
+        回复 @走窄门的佩奇 :In our place,现在有relationship都好像不能用隔夜拆借做长投了
+
+    夏目炽
+        回复 @走窄门的佩奇 :In our place,现在那些能人都好像不能用隔夜拆借做长投了
+
+    夏目炽
+        回复 @罪域里的呜喵王 :其实关键在这些短贷利率特别低，它主要做的是用来投资套利
+
+    货币法则研习社
+        回复 @夏目炽 : PerryMehrling后续会讲这个事情。虽然是隔夜拆借，但一般都可以roll over，就是续借。回购本质上也是短期借款，
+        也默认可以续借。但是一旦出资方（creditor或lender）对借钱的一方失去了信任，不再续借，或者要求更多的抵押品，影子银行就必须
+        从别的地方搞钱，搞不到就会出现流动性危机。在传统的银行系统里，银行出现了流动性危机可以找央行，央行充当最后贷款人。但是影子银行
+        不再美联储系统内，美联储不能直接借钱给他。虽然这个规则后来被打破了。
+
+    货币法则研习社
+        回复 @走窄门的佩奇 : 贯穿整个系列课程的核心观点之一，banking as market making，影子银行也是做市商，他买入MBS债券不是为了持有，
+        而是为了交易，通过给市场提供流动性来赚取差价，但是影子银行的杠杆率很高，很少用自己的钱。一旦资产价格波动，一旦出资人不信任，
+        影子银行很容易出现流动性危机。一旦出现危机，fire sale 债券，进一步加剧流动性危机。
+
+    货币法则研习社
+        回复 @夏目炽 : 这个ourplace是指哪里呀？
+
+    夏目炽
+        回复 @走窄门的佩奇 :您通过relationship意会一下吧。发不出原话
+
+### central bank
+
+量化宽松(Quantitative Easing, QE)
+
+    是一种货币政策，主要是指中央银行在实行零利率或近似零利率政策后，通过购买国债等中长期债券，增加基础货币供给，向市场注入大量流动性
+    资金的干预方式，以鼓励开支和借贷，也被简化地形容为间接增印钞票
 
 Q: central bank 的 balance sheet 的变化背后解释是什么? 有时增持长期国债, 有时增持短期国债, 有时持企业债券, ...
-
-Q: central bank 可以刷钱, 那是凭空产生更多 currency ? central bank 也作为 bank 可通过 balance sheet 解释他的资产与负债
-
-Q: 怎么去监管?
 
 Q: 学习解读经济报道, 学会看懂 central bank 的 balance sheet, 作为银行、银行的银行、政府机构会蕴含当时的政府决策
 
@@ -174,59 +209,41 @@ Q: 学习解读经济报道, 学会看懂 central bank 的 balance sheet, 作为
 
 1.  Par             - diferent types of money(currency, deposists);
 
-    this is the price of one money in terms of another money right now (这是目前一种货币相对于另一种货币的价格)
+    this is the price of one money in terms of another money right now, today (这是"当前"一种货币相对于另一种货币的价格)
 
         即时汇率, 即期汇率
 
-    如果在银行账户中有 $100(deposit accounts), 可以去银行柜台取出 $100(cash reserves); that's par (平价? 票面价值?)
+    不同"形态"的 money, 对于个人来说一般情况下 demand deposits, cash 几乎同等. that's par
 
-                    Bank
-        Assets            Liabilities
-        ----------------+------------------
-        Loans           | Deposit Accounts
-        Securities      | Other borrowing
-        Cash Reserves   | Net Worth
+        不加入第三方(刷卡消费等情况), 仅仅, 我与银行两个主体, 去银行柜台取 100 活期存款(demand deposits, 通过存折也好, 
+        卡也好, 身份证也好), 拿到 100 现金(cash)
 
-        不同"形态"的 money, deposit or currency(cash reserves)
+        demand deposits : cash = 1:1, 这个叫 par, 非一张 100 cash 换两张 50 cash.
 
-        -$100 存款负债; -$100 储备金,
+        这种 1:1 的 interest 一直保持的么?
 
-        而 cash reserves 是来自于 central bank, central bank 与 bank 之间 interest rate 未必一直保持 1:1
+        100 的 cash, 存入银行 demand deposits 实际上持有的只是对银行的 100 债权 (银行并不会保管在保险箱中, 让你随时可支取),
+        极端情况下, 譬如银行破产, 那么可能无法全额取现, 因为资不抵债, 持当前银行的 100 债权, 清算后可能只值 55 cash
 
-        当没有 par clearing 建立的时候(央行??), 跨城、跨银行支付会产生额外费用, 并不是 real time 划账, 发生时差
+        所以银行有 deposits 负债同时, 需要保证一定比例 cash reserves(储备金) 来制度来防范
 
-    par: 在当下以一份货币(存款)为单位, 计算另一份货币(存款)的价格;
+            我们国家是给准备金利息的, 但是其他国家如美国是不给的, 储备金是为了提高银行信用度和调节经济的.
+            我国的准备金由于一般不会同业拆借, 为了弥补银行的损失, 央行是给利息的.
+            美国的存款准备金收上去后, 是放在其联邦基金里面可以进行同业拆借的, 可以从存款准备金里面获益.
 
-        假设在某家银行有 100 块活期存款, 一般情况下这 100 块存款可以随时换到 100 块现金. 但这 100 块存款实际上只是对银行的 100 块债权,
-        极端情况下, 譬如银行破产, 那么可能无法全额取现或者跨行转账(其他银行不愿意同时接受 100 块对该银行的债权和 100 块对你的债务,
-        因为已经资不抵债), 破产清算(以及在那之前) 这 100 块存款可能只值 55 块现金, 这个 55 块现金就是 par
+    当没有 par clearing 建立的时候(央行??), 跨城、跨银行支付会产生额外费用, 并不是 real time 划账, 发生时差??
 
 2.  Interest        - future money(fed funds, Eurodollars, repo)
 
-        我们国家是给准备金利息的, 但是其他国家如美国是不给的, 储备金是为了提高银行信用度和调节经济的.
-        我国的准备金由于一般不会同业拆借, 为了弥补银行的损失, 央行是给利息的.
-        至于美国为什么不给, 是由于美国的存款准备金收上去后, 是放在其联邦基金里面可以进行同业拆借的, 可以从存款准备金里面获益.
-
-        cash reserves 的同行拆借的利率不低于 deposit rate, 还是不亏.
-
-
     但凡涉及 future, 离不开 credit + interest rate.. 承担风险收益浮动收益
+
+    换个说法就是, interest 在 financial 中就是当前 face value 在 future 的价值. 如果是 deposits 形式, 对银行机构 credit 
 
 3.  Exchange rate   - foreign money
 
 4.  Price level     - commodities
 
 all banking is essentially a swap of IOUs (借据的交换)
-
----
-
-credit 带来的 money 不变的情况下, interest 差(  a-b 1%, b-c 2%, c-d 3% )
-
-(储蓄 - 储备金 ~ 贷款 + credit 风险; 贷款利息 > 储蓄利息)
-
-金融中介一般都是借短贷长，比如说银行、货币基金等等
-
-
 
 ---
 
