@@ -148,7 +148,7 @@ Q: 学习解读经济报道, 学会看懂 central bank 的 balance sheet, 作为
 
 ### Four functions of banking
 
-1. Clearing
+1. clearing
 2. market making
 3. advance clearing
 4. intermediation
