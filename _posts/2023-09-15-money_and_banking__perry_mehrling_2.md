@@ -12,11 +12,11 @@ tags:
 
 A Simple Hierarchy
 
-    --------+----------
-    Money    Gold
-     ↑       Currency
-     ↑       Deposits
-    Credit   Securities
+    --------+-----------
+    Money   | Gold
+     ↑      | Currency
+     ↑      | Deposits
+    Credit  | Securities
 
 
 经济学工具[^1]
